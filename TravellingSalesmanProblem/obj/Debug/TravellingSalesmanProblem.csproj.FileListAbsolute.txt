@@ -1,0 +1,10 @@
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\bin\Debug\TravellingSalesmanProblem.exe.config
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\bin\Debug\TravellingSalesmanProblem.exe
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\bin\Debug\TravellingSalesmanProblem.pdb
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.csprojResolveAssemblyReference.cache
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.Form1.resources
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.Properties.Resources.resources
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.csproj.GenerateResource.Cache
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.csproj.CoreCompileInputs.cache
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.exe
+C:\резюме\TravellingSalesmanProblem\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.pdb
